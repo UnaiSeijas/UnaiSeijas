@@ -3,7 +3,7 @@
 #### · :student: Actualment soc estudiant de DAM (desenvolupament d'aplicacions multiplataforma) en primer any a l'escola ITB (institut tecnológic Barcelona).
 #### · :computer: Tinc moltes ganes d'aprendre fundaments de programació, bases de dades i tot lo que sigui possible com a estudiant.
 #### · :dart: El meu objectiu principal a llarg termini es créixer lo màxim possible com a desenvolupador.
-#### · 
+#### · :chart_with_upwards_trend: Com començo prácticament de 0, en aquest perfil es veurán reflectats les meves millores durant el curs :top:
 <!--
 
 
