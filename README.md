@@ -1,7 +1,10 @@
-## Hi there 👋
+## Benvingut! Soc Unai 👋
 
+#### · :student: Estudio DAM (desenvolupament d'aplicacions multiplataforma) en primer any a l'escola ITB (institut tecnológic barcelona)
+#### · 
 <!--
-**UnaiSeijas/UnaiSeijas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
